@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "860657111607",
+    "firebase_url": "https://cityapp-b57ee.firebaseio.com",
+    "project_id": "cityapp-b57ee",
+    "storage_bucket": "cityapp-b57ee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:860657111607:android:94ed8112ef4ff02d",
+        "android_client_info": {
+          "package_name": "com.example.cityapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "860657111607-lhbi40d56rjrpbnhtjnr22spcvbps6kg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.cityapp",
+            "certificate_hash": "64a27cadf1639bfb09e7ae9116b8a7a328b3b3a4"
+          }
+        },
+        {
+          "client_id": "860657111607-hl7ar53vj4bjpuovngl79vumh2450hqj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDW56vY9UDqeVDaFb79AABEt8G8DO2DTn4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "860657111607-hl7ar53vj4bjpuovngl79vumh2450hqj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
